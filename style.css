@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Raleway:wght@400;500;600&display=swap');
+*{
+    margin:0  ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+
+.top .fa-list{
+    border-radius: 10px;
+    padding: 7px;
+    color: rgba(27, 222, 79, 0.997);
+    background-color: rgba(255, 145, 0, 0.17) !important;
+}
+
+.cmain button{
+    border-radius: 10px;
+    display: flex;
+    margin-left: 30%;
+}
+.cmain{
+
+    border-radius: 5px;
+    padding: 15px;
+    background: aliceblue;
+}
+.c1 h1,p{
+    font-weight: bolder;
+}
+
+.c2main{
+    background: rgba(178, 183, 184, 0.237);
+    border-radius: 15px;
+    background: rgb(243, 229, 232);
+}
+
+.c2main i{
+    font-weight: bolder;
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+}
+
+.c2main span{
+    color: grey;
+    
+}
+
+table tr td h3{
+    font-size: medium;
+}
+table tr td p{
+    font-size: medium;
+    color: grey;
+}
+
+
+table tr td .i1{
+    border-radius: 10px;
+    padding: 15px;
+    color: rgb(43, 255, 0) !important;
+    font-size: xx-large;
+    background-color: rgba(110, 214, 255, 0.17) !important;
+}
+
+
+table tr td .i2{
+    border-radius: 10px;
+    padding: 15px;
+    color: rgb(242, 228, 31) !important;
+    font-size: xx-large;
+    background-color: rgba(232, 242, 89, 0.17) !important;
+}
+
+table tr td .i3{
+    border-radius: 10px;
+    padding: 15px;
+    color: rgb(0, 128, 113) !important;
+    font-size: xx-large;
+    background-color: rgba(0, 128, 0, 0.338) !important;
+}
+
+table tr td .i4{
+    border-radius: 10px;
+    padding: 15px;
+    color: rgb(206, 64, 209) !important;
+    font-size: xx-large;
+    background-color: pink !important;
+}
+
+
+
+table tr td  .icon{
+    border-radius: 10px;
+    padding: 5px;
+    color: rgb(116, 65, 65) !important;
+    font-size: x-large;
+    background-color: rgba(0,0,0, 0.1) !important;
+}
+
+
+.i11{
+    display: inline;
+   margin-left: 15px !important;
+}
+
+.c3 h5{
+    font-weight: bolder;
+}
+
+.c3 p{
+    font-weight: bolder;
+    color: grey;
+}
+
+.c3{
+    background: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+}
+.t2 .dot{
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.t2 p{
+    font-size: medium;
+}
+
+.t2 .line1{
+    border-left:3px solid grey;
+}
+
+
+.c4 h5{
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.c4 p{
+    font-weight: bolder;
+    color: grey;
+    padding: 10px;
+}
+
+.c4{
+    background:whitesmoke;
+    border-radius: 10px;
+}
+
+.c7 {
+    background: rgb(191, 110, 4);
+}
+.img2{
+    margin-left: 140px;
+}
+.vertical{
+    box-shadow: inset 0px 4px 6px #ccc; 
+    display: inline-block;
+    width: 20%;
+    height: 40px;
+   
+    transform: rotate(-90deg);
+   
+}
+.progress{
+
+}
+.bot{
+    height: 100px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 5px;
+    display: inline-block; 
+    background-color: green;
+}
